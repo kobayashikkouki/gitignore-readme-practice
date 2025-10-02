@@ -6,9 +6,9 @@ python版とjava版があります。
 出し、勝敗を判定します。
 ## 実行環境
 - Python版：Python 3.x
-- Java版：Java11以上推奨
+- Java版：Java 11以上推奨
 ## 実行方法
-**Python版：**
+**Python版：janken.py**
 1.ターミナル（またはコマンドプロンプト）でフォルダに移動
 
 2.以下を実行
@@ -16,6 +16,16 @@ python版とjava版があります。
 python janken.py
 ```
 **java版：Janken.java**
+1.ターミナル（またはコマンドプロンプト）でフォルダに移動
+2.コンパイル
+```
+python janken.py
+```
+3.実行
+```
+java Janken
+```
+## 遊び方 ##
 
 1.プログラムを実行すると、手の選択しが表示されます。
 
